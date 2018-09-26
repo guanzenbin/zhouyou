@@ -1,5 +1,4 @@
 添加
 
 远程仓库
-
-创建一个分支g'i
+Creating a new branch is quick AND simple.
